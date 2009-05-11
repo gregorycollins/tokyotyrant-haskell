@@ -1,0 +1,10 @@
+*~
+**/*~
+#*#
+**/#*#
+dist/
+dist/**
+.#*
+*.prof
+*.html
+.DS_Store

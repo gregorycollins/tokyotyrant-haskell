@@ -20,7 +20,7 @@ Source-Repository head
 
 Library
     hs-source-dirs:  src
-    ghc-options:     -Wall -funbox-strict-fields -fglasgow-exts -O2 -fvia-C -optc-O3 -threaded
+    ghc-options:     -Wall -funbox-strict-fields -O -threaded
     exposed-modules: Database.TokyoTyrant.FFI
     extra-libraries: tokyocabinet, tokyotyrant
 

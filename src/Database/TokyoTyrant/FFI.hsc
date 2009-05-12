@@ -2,6 +2,7 @@
 {-# LANGUAGE OverloadedStrings         #-}
 {-# LANGUAGE ForeignFunctionInterface  #-}
 {-# LANGUAGE EmptyDataDecls            #-}
+{-# LANGUAGE ScopedTypeVariables       #-}
 
 {-# OPTIONS_GHC -fno-warn-unused-binds #-}
 

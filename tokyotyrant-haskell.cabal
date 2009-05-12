@@ -1,5 +1,5 @@
 Name:           tokyotyrant-haskell
-Version:        1.0
+Version:        1.0.1
 Synopsis:       FFI bindings to libtokyotyrant
 Description:    This package provides a thin FFI binding to the libtokyotyrant
                 C library shipped with Mikio Hirabayashi's Tokyo
